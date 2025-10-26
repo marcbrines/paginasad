@@ -1,0 +1,10 @@
+site_name: My Docs
+theme:
+  name: mkdocs
+nav:
+  - Inici: index.md
+  - Altre: about.md
+  - Act1: Brines_Marc_P1/Brines_Marc_P1/Brines_Marc_P1.md
+  - Act2: Brines_Marc_P1/Brines_Marc_P2/Brines_Marc_P2.md
+  - Act3: Brines_Marc_P1/U2_P3_Marc_Brines/U2_P3_Marc_Brines.md
+  - Act4: Brines_Marc_P1/U2_P4_Marc_Brines/U2_P4_Marc_Brines.md
